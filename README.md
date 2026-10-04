@@ -1,6 +1,6 @@
 # greekAudio
 
-[English](README.md) | [繁體中文](README.zh-TW.md)
+[English](README.md) | [繁體中文](README.ZH.md)
 
 A terminal UI (TUI) for Termux that looks up Biblical Greek words and plays their pronunciation. Search by Greek script, romanization, transliteration, or English gloss, pick a word by keyboard or tap, and the audio is downloaded with yt-dlp, cached locally, and played with `termux-media-player`.
 
